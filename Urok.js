@@ -31,3 +31,5 @@
 
 // console.log(isChecked || !isColse) // ! наоборот 
 'use strict';
+
+var a = 1;
